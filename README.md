@@ -1,2 +1,2 @@
 # PYTHON
-Just some python exercises
+Just some Python exercises
